@@ -6,3 +6,4 @@ pyaudio
 PyPDF2==3.0.1
 python-dotenv==1.0.0
 streamlit==1.25.0
+google-cloud-speech
